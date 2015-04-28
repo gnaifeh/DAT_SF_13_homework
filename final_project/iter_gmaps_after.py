@@ -33,7 +33,8 @@ def add_districts(list_of_districts):
     return district_list_string
 
 current_origins = add_districts([oakland, financial_district, mountain_view])
-current_destinations = add_districts([pacific_heights, outer_richmond,\
+current_destinations = add_districts([russian_hill, north_beach,\
+                            pacific_heights, outer_richmond,\
                             outer_sunset, mission_district, noe_valley,\
                             oakland, berkeley])
 

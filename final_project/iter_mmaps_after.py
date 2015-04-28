@@ -24,14 +24,15 @@ mountain_view = "Mountain View, CA"
 #russian_hill = "Russian Hill, San Francisco, CA"
 #north_beach = "North Beach, San Francisco, CA"
 
-residential_neighborhoods = [pacific_heights, outer_richmond,\
+residential_neighborhoods = [russian_hill, north_beach, pacific_heights, outer_richmond,\
                             outer_sunset, mission_district, noe_valley,\
                             oakland, berkeley]
 work_neighborhoods = [oakland, financial_district, mountain_view]
-residential_coordinates = ['37.7925153,-122.4382307', '37.777677,-122.49531',\
-                        '37.755445,-122.494069', '37.7598648,-122.4147977',\
-                        '37.7502378,-122.4337029', '37.8043637,-122.2711137',\
-                        '37.8715926,-122.272747']
+residential_coordinates = ['37.8010963,-122.4195558', '37.8060532,-122.4103311',\
+                        '37.7925153,-122.4382307', '37.777677,-122.49531',\
+                         '37.755445,-122.494069', '37.7598648,-122.4147977',\
+                            '37.7502378,-122.4337029', '37.8043637,-122.2711137',\
+                             '37.8715926,-122.272747']
 work_coordinates = ['37.8043637,-122.2711137', '37.7945742,-122.3999445',\
                     '37.3860517,-122.0838511']
 
