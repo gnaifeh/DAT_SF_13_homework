@@ -1,5 +1,0 @@
-MySQL Commands
-
-SELECT (datetime, origins, destinations, duration)
-FROM gmaps_data_local 
-WHERE (origins = 'Outer Sunset, San Francisco, CA, USA' OR origins = 'Pacific Heights, San Francisco, CA, USA' OR origins = 'Noe Valley, San Francisco, CA, USA' AND travel_mode = 'transit') ORDER BY datetime, origins, destinations;
